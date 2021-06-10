@@ -5,4 +5,6 @@ Print(a+b)
 a=10
 b=20
 print(a/b)
-#python div
+#python div=
+Print(a-b)
+#python code
